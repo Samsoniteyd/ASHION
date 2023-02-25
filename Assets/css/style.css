@@ -1,0 +1,45 @@
+#men .container .row .col-lg-3{
+    
+    /* border: 2px solid red; */
+    margin-top: 1rem;
+}
+#men .container .row .col-lg-3{
+    border-radius: 0rem;
+}
+
+#men .container .row .col-lg-3 .net{
+    text-align: center;
+}
+
+  
+#nbar .navbar .container-fluid .collapse .navbar-nav{
+    margin-left: 10rem;
+    width: 50vw;
+    justify-content: space-evenly;
+    text-align: center;
+    font-weight: bold;
+   
+}
+
+#nbar .navbar .container-fluid .navbar-brand{
+    font-style: italic;
+}
+
+#pictures .container-fluid .row .col-lg-6 .jam{
+    border-radius: 0rem;
+    border: 0rem;
+     position: absolute; 
+    top: 40%; 
+    
+}
+
+#pictures .container-fluid .row .col-lg-6{
+     position: relative;  
+}
+
+#pictures .container-fluid .row .col-lg-6 .jam h4{
+    /* border: 2px solid red !important;  */
+    width: 8.2vw;
+    text-align: center;
+    
+}
